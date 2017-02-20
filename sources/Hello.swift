@@ -1,7 +1,7 @@
 import Foundation
 
 public class Hello {
-    pubic func say() {
+    public func say() {
         print("Hello")
     }
 }
